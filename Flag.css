@@ -1,0 +1,21 @@
+th{
+    border: 2px solid  black;
+    width: 450px;
+    height: 100px;
+}
+table{
+    margin: 120px auto;
+    border-collapse: collapse;
+}
+#top{
+    background-color: orange;
+}
+#mid{
+    background-color: white;
+}
+#bot{
+    background-color: green;
+}
+img{
+    height: 100px;
+}
